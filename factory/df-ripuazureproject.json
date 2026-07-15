@@ -1,0 +1,15 @@
+{
+	"name": "df-ripuazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "61f58941-2d2d-4606-b330-f91aaad5f51d",
+		"tenantId": "435fed1b-86d4-4d09-9067-91efe37a0a74"
+	}
+}
